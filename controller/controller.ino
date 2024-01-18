@@ -8,7 +8,7 @@
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 
-#include <Wi0Fi.h>
+#include <WiFi.h>
 #include <esp_now.h>
 
 // ﾋﾟﾝ番号・変数設定
